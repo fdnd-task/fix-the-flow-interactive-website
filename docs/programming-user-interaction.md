@@ -75,8 +75,8 @@ In CSS heb je die button met een _class selector_ als _feedforward_ ronde hoeken
     display: none;
 }
 
-/* Deze 'show-info' class gaan we er met JS straks op zetten */
-.show-info {
+/* Deze 'info-visible' class gaan we er met JS straks op zetten */
+.info-visible {
     display: block;
 }
 ```
@@ -130,11 +130,11 @@ let showMoreButton = document.querySelector('.show-more');
 let infoText = document.querySelector('.info');
 
 showMoreButton.addEventListener('click', function() {
-    infoText.classList.add('show-info');
+    infoText.classList.add('info-visible');
 });
 ```
 
-In CSS _matcht_ nu de `show-info` class ook, waardoor de `<p>` getoond wordt. In JavaScript heb je dus vaak maar een paar regels code nodig om iets interactiefs te maken. Transities en animaties kun je verder helemaal in CSS doen. En je kunt je volledig richten op goede en duidelijke feedforward en feedback. Uiteindelijk maak je de dingen voor eindgebruikers.
+In CSS _matcht_ nu de `info-visible` class ook, waardoor de `<p>` getoond wordt. In JavaScript heb je dus vaak maar een paar regels code nodig om iets interactiefs te maken. Transities en animaties kun je verder helemaal in CSS doen. En je kunt je volledig richten op goede en duidelijke feedforward en feedback. Uiteindelijk maak je de dingen voor eindgebruikers.
 
 ### Opdracht het 3 stappenplan in de console
 
