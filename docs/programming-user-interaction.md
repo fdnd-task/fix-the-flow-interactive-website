@@ -8,14 +8,14 @@ Leer met het JavaScript 3 stappenplan en CSS interactie coderen.
 
 Als een gebruiker interactie heeft met een website, moet je goede feedback/feedforward ontwerpen en maken. Zo weet een gebruiker wat die kan verwachten, en of de actie gelukt is. 
 
-Je gaat de interactie coderen met HTML, CSS en JS. Tijdens de code/design review komende vrijdag krijg je feedback op je code. Volgende week vrijdag ga je jouw interactie leren testen met een _User Test_.
+Je gaat de interactie uit jouw _user story_ coderen met HTML, CSS en JS. Tijdens de code/design review komende vrijdag krijg je feedback op je code. Volgende week vrijdag ga je jouw interactie leren testen met een _User Test_.
 
 
 ## De Console en het Document Object Model (DOM)
 
 Voordat we weer verder gaan met zelf JavaScript schrijven, heb je nog een aantal tools en inzichten nodig. De _Console_ van je browser developer tools ga je veel zien, dus laten we daar eerst in duiken, net als in week 1 van de opleiding.
 
-De afgelopen vier sprints heb je voornamelijk gewerkt met HTML en CSS. Met HTML bouw je zoals je weet _documenten_, en met JavaScript gaan we een micro-interactie toevoegen aan die documenten. Met JavaScript heb je toegang tot het volledige _Document Object Model_ (de _DOM_). Alle HTML die je schrijft, wordt als een boomstructuur (een _tree_) door de browser intern bijgehouden. In je developer tools en in de Console kun je de DOM onderzoeken.
+De afgelopen vier sprints heb je voornamelijk gewerkt met HTML en CSS. Met HTML bouw je zoals je weet _documenten_, en met JavaScript gaan we een interactie toevoegen aan die documenten. Met JavaScript heb je toegang tot het volledige _Document Object Model_ (de _DOM_). Alle HTML die je schrijft, wordt als een boomstructuur (een _tree_) door de browser intern bijgehouden. In je developer tools en in de Console kun je de DOM onderzoeken.
 
 Het _inspecteren_ van elementen heb je dus al vaak gedaan. Als je in de Inspector een element selecteert, krijg je hier in de Console een referentie heen, via een _variabele_ genaamd `$0`. Je kunt hiermee de DOM onderzoeken.
 
@@ -28,7 +28,7 @@ Ga in de browser naar je eigen project, open de Console en schrijf op het whiteb
 
 Zorg dat je in de Console een lijst van alle _kinderen_ uit je `<head>` element te zien krijgt, door `document.querySelector('head').children` uit te voeren.
 
-Inspecteer het element waarmee je de micro-interactie van jouw user story wilt starten (waarschijnlijk een button). Als je die nog niet hebt, inspecteer dan een ander willekeurig element. Ga naar de Console en typ `console.log($0)`.
+Inspecteer het element waarmee je de interactie van jouw user story wilt starten (waarschijnlijk een button). Als je die nog niet hebt, inspecteer dan een ander willekeurig element. Ga naar de Console en typ `console.log($0)`.
 
 Voer `$0.classList.add('awesome')` uit in de Console, en daarna weer `console.log($0)`. Schrijf op het whiteboard welke classes er nu op je element staan.
 
@@ -37,6 +37,10 @@ Voer `$0.hidden = true` uit. En daarna `$0.hidden = false`.
 Voer `$0.textContent = 'JS is nog steeds tof!'` uit.
 
 Tik `document.` in je Console, en scroll door de lijst met suggesties. Schrijf op het whiteboard uit die lijst een term waar je meer over wilt weten.
+
+💪 Toe aan een uitdaging? Kijk eens of je met `document.documentElement.style.setProperty()` een custom property uit CSS aan kunt passen.
+
+<img width="1624" height="1056" alt="image" src="https://github.com/user-attachments/assets/9e23b0f8-2668-4f23-b4b6-35deafdc0378" />
 
 
 ### Bronnen
