@@ -28,9 +28,9 @@ Ga in de browser naar je eigen project, open de Console en schrijf op het whiteb
 
 Zorg dat je in de Console een lijst van alle _kinderen_ uit je `<head>` element te zien krijgt, door `document.querySelector('head').children` uit te voeren.
 
-Inspecteer het element waarmee je de interactie van jouw user story wilt _activeren_ (waarschijnlijk een button). Als je die nog niet hebt, inspecteer dan een ander willekeurig element. Ga naar de Console en typ `console.log($0)`.
+Inspecteer het element waarmee je de interactie van jouw user story wilt _activeren_ (waarschijnlijk een button). Als je die nog niet hebt, inspecteer dan een ander willekeurig element. Ga naar de Console en typ `console.log($0)`. Bevat jouw element al een `class` attribuut?
 
-Voer `$0.classList.add('awesome')` uit in de Console, en daarna weer `console.log($0)`. Schrijf op het whiteboard welke classes er nu op je element staan.
+Voer `$0.classList.add('awesome')` uit in de Console, en daarna weer `console.log($0)`. Is er een `awesome` `class` bijgekomen?
 
 Voer `$0.hidden = true` uit. En daarna `$0.hidden = false`.
 
