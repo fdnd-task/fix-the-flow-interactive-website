@@ -19,7 +19,7 @@ De afgelopen vier sprints heb je voornamelijk gewerkt met HTML en CSS. Met HTML 
 
 Het _inspecteren_ van elementen heb je dus al vaak gedaan. Als je in de Inspector een element selecteert, krijg je hier in de Console een referentie heen, via een _variabele_ genaamd `$0`. Je kunt hiermee de DOM onderzoeken.
 
-<img width="812" height="528" alt="image" src="https://github.com/user-attachments/assets/55558649-cce4-48a6-9d95-c7a60990f7c3" />
+<img width="1624" height="1056" alt="image" src="https://github.com/user-attachments/assets/55558649-cce4-48a6-9d95-c7a60990f7c3" />
 
 
 ### Opdrachten
