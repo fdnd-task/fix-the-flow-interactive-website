@@ -37,4 +37,4 @@ Voer de [UI Events deeltaak](https://github.com/fdnd-task/ui-events/) uit, en ga
 ### Bronnen
 
 - [If you only know one thing about JavaScript, this is what I would recommend](https://css-tricks.com/video-screencasts/150-hey-designers-know-one-thing-javascript-recommend/)
-- [UI Eventsr @ MDN](https://developer.mozilla.org/en-US/docs/Web/API/UI_Events)
+- [UI Events @ MDN](https://developer.mozilla.org/en-US/docs/Web/API/UI_Events)
