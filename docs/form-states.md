@@ -32,11 +32,8 @@ Maak een nieuw HTML bestand in je _i-love-web_ repo, genaamd `validatie.html` (t
 
 ```html
 <form>
-  <fieldset>
-    <legend>Zoeken</legend>
-    <input required>
-    <button type="submit">Zoek!</button>
-  </fieldset>
+  <label>Zoekterm <input required></label>
+  <button type="submit">Zoek!</button>
 </form>
 ```
 
