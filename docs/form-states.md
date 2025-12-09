@@ -30,7 +30,7 @@ Als frontender is het verstandig om zoveel mogelijk browsers te verzamelen, ook 
 
 Dus download [Firefox](https://www.firefox.com/), [Chrome](https://www.google.com/chrome/), [Arc](https://arc.net/download), [Edge](https://www.microsoft.com/edge/), [Vivaldi](https://vivaldi.com/download/), [Brave](https://brave.com/download/), [Samsung Internet](https://www.samsung.com/nl/apps/samsung-internet/), [Polypane](https://polypane.app/), [Orion](https://orionbrowser.com/), [Dolphin](https://dolphin.com/), [Zen Browser](https://zen-browser.app/), [LibreWolf](https://librewolf.net/), [Servo](https://servo.org/download/) etc.
 
-Maar ook [Safari Technology Preview](https://developer.apple.com/safari/technology-preview/) (als je op een Mac zit), [Firefox Nightly](https://www.firefox.com/channel/desktop/), [Chrome Canary](https://www.google.com/chrome/canary/), [Edge Canary](https://www.microsoft.com/edge/download/insider) en [Brave Nightly](https://brave.com/download-nightly/), zodat je als frontender klaar bent om nieuwe technieken uit te proberen.
+Maar ook [Safari Technology Preview](https://developer.apple.com/safari/technology-preview/) (als je op een Mac zit), [Firefox Nightly](https://www.firefox.com/channel/desktop/), [Chrome Canary](https://www.google.com/chrome/canary/), [Edge Canary](https://www.microsoft.com/edge/download/insider) en [Brave Nightly](https://brave.com/download-nightly/), zodat je als frontender klaar bent om nieuwe frontend technieken uit te proberen.
 
 Schrijf met je tafel op het whiteboard welke browsers jullie geïnstalleerd en uitgeprobeerd hebben. De tafel met de meeste browsers krijgt een cookie melding.
 
