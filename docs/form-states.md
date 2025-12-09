@@ -15,24 +15,20 @@ Probeer na deze workshop de nieuwe kennis over formuliervalidatie toe te passen 
 
 We gaan weer een klein experiment maken: een formulier met daarin een vereist element. Als je het formulier probeert te versturen, valideert de browser het formulier, en toont deze een standaard melding. Dit ziet er in verschillende browsers verschillend uit. De standaard teksten verschillen ook per browser.
 
-Als je een lege `<input type="text" required>` probeert te versturen, ziet dat er bijvoorbeeld zo uit:
-
-![](required.png)
-
-En bij een niet geselecteerde `<input type="radio" name="option" required>` krijg je bijvoorbeeld dit soort _feedback_:
+En aangezien we net met JavaScript en _events_ zijn begonnen, gaan we de standaard feedback van de browser aanpassen, zodra er een `invalid` event wordt afgevuurd door de browser.
 
 ![](required-radios.png)
 
-Aangezien we net met JavaScript en _events_ zijn begonnen, gaan we de standaard feedback van de browser aanpassen, zodra er een `invalid` event wordt afgevuurd door de browser.
+![](required-radios.png)
 
 
 ## Verschillende browsers
 
-Als frontender is het verstandig om zoveel mogelijk browsers te verzamelen, ook op je telefoon.
+Als frontender is het verstandig om zoveel mogelijk browsers te verzamelen, ook op je telefoon. Jouw eindgebruikers hebben _waarschijnlijk_ namelijk ook een andere browser dan jij.
 
 ![](browsers.jpg)
 
-De gebruikers van wat je aan het maken bent, hebben waarschijnlijk namelijk ook een andere browser dan jij. Dus download [Firefox](https://www.firefox.com/), [Chrome](https://www.google.com/chrome/), [Arc](https://arc.net/download), [Edge](https://www.microsoft.com/edge/), [Vivaldi](https://vivaldi.com/download/), [Brave](https://brave.com/download/), [Samsung Internet](https://www.samsung.com/nl/apps/samsung-internet/), [Polypane](https://polypane.app/), [Orion](https://orionbrowser.com/), [Dolphin](https://dolphin.com/), [Zen Browser](https://zen-browser.app/), [LibreWolf](https://librewolf.net/), etc. Maar ook [Safari Technology Preview](https://developer.apple.com/safari/technology-preview/), [Firefox Nightly](https://www.firefox.com/channel/desktop/), [Chrome Canary](https://www.google.com/chrome/canary/), [Edge Canary](https://www.microsoft.com/edge/download/insider) en [Brave Nightly](https://brave.com/download-nightly/), zodat je als frontender klaar bent om nieuwe technieken uit te proberen. Schrijf met je tafel op het whiteboard welke browsers jullie geïnstalleerd hebben. De tafel met de meeste browsers krijgt een cookie melding.
+Dus download [Firefox](https://www.firefox.com/), [Chrome](https://www.google.com/chrome/), [Arc](https://arc.net/download), [Edge](https://www.microsoft.com/edge/), [Vivaldi](https://vivaldi.com/download/), [Brave](https://brave.com/download/), [Samsung Internet](https://www.samsung.com/nl/apps/samsung-internet/), [Polypane](https://polypane.app/), [Orion](https://orionbrowser.com/), [Dolphin](https://dolphin.com/), [Zen Browser](https://zen-browser.app/), [LibreWolf](https://librewolf.net/), etc. Maar ook [Safari Technology Preview](https://developer.apple.com/safari/technology-preview/), [Firefox Nightly](https://www.firefox.com/channel/desktop/), [Chrome Canary](https://www.google.com/chrome/canary/), [Edge Canary](https://www.microsoft.com/edge/download/insider) en [Brave Nightly](https://brave.com/download-nightly/), zodat je als frontender klaar bent om nieuwe technieken uit te proberen. Schrijf met je tafel op het whiteboard welke browsers jullie geïnstalleerd hebben. De tafel met de meeste browsers krijgt een cookie melding.
 
 
 ## Formuliervalidatie in HTML
