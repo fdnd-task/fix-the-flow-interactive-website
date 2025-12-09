@@ -96,7 +96,7 @@ Vooral de `:user-invalid` en `:user-valid` _pseudo-classes_ werken goed samen me
 
 ```html
 <style>
-fieldset:has(:user-invalid) {
+form:has(:user-invalid) {
   background: #faa;
 }
 </style>
