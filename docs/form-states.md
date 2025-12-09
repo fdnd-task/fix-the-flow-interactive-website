@@ -17,7 +17,7 @@ We gaan weer een klein experiment maken: een formulier met daarin een vereist el
 
 En aangezien we net met JavaScript en _events_ zijn begonnen, gaan we de standaard feedback van de browser aanpassen, zodra er een `invalid` event wordt afgevuurd door de browser.
 
-![](required-radios.png)
+![](required.png)
 
 ![](required-radios.png)
 
