@@ -44,7 +44,8 @@ Op de website van Ziggo.nl zijn het logo, de titel van de pagina en het oranje m
 
 Voor het gebruik van iconen is het aan te raden bij het icon altijd een label te gebruiken. Zoals de input elementen in een formulier hebben alle interactieve elementen duidelijke labels nodig.
 
-![](hamburger-menu-types-examples.jpeg) *Verschillende menu icons voor dezelfde interactie.*
+Hieronder een voorbeeld van verschillende iconen die gebruikt worden voor een menu. Met een label zorg je ervoor dat de gebruiker ook weet wat je met zo'n knop kan doen:
+![](hamburger-menu-types-examples.jpeg) 
 
 Online zul je vaak zien dat menu knoppen of andere interactieve elementen geen labels hebben. Dan geef je de gebruiker geen duidelijke feedback en feedforward. Er zijn geen regels voor het gebruik van iconen, dus zul je vaak zien dat dezelfde iconen worden gebruikt voor andere doeleinden, of verschillende iconen voor dezelfde interactie. Om misverstanden te voorkomen, is het aan te raden om bij een icon _altijd_ een label te plaatsen. Om duidelijk te maken wat het betekent en wat een gebruiker kan verwachten.
 
