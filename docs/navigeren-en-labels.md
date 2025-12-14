@@ -117,7 +117,7 @@ Schets gezamenlijk hoe je de interactie kan verbeteren door feedback en feedforw
 Als de mentoren klaar zijn met het helpen van alle eerstejaars, ga dan gezamenlijk dezelfde opdracht doen op jullie werk. 
 
 Bespreek om de beurt het ontwerp dat jullie aan het maken zijn in Figma en in de browser. 
-Schets gezamenlijk hoe je de interactie kan verbeteren met behulp van bovenstaande lijst.
+Schets met elkaar op het whiteboard hoe je de interactie kan verbeteren met behulp van bovenstaande lijst.
 
 
 <!-- 
