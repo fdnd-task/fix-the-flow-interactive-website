@@ -47,7 +47,7 @@ Voor het gebruik van iconen is het aan te raden bij het icon altijd een label te
 
 ### Mental models
 
-De bezoeker van jouw website heeft een beeld in het hoofd van hoe een website werkt en wat knoppen en iconen doen. Dat heet een _Mental model_, Een idee van wat we denken te weten over een systeem en hoe het werkt.
+Bezoekers van jouw website hebben een beeld in het hoofd van hoe een website werkt en wat knoppen en iconen doen. Dat heet een _Mental model_, een idee van wat we denken te weten over een systeem en hoe het werkt.
 Gebruikers brengen het grootste deel van hun tijd door op andere sites. Dit betekent dat gebruikers willen dat jouw site op dezelfde manier werkt als alle andere sites die ze al kennen.
 
 > Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know.
