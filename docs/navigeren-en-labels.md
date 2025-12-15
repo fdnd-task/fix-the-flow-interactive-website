@@ -36,7 +36,8 @@ Daarna ga je in groepjes de interactie die je aan het ontwerpen en bouwen bent b
 Goede navigatie maakt gebruik van feedback en feedforward, dat zijn de straatnaambordjes en bewegwijzering van een website.
 _Feedback_ is dat een gebuiker weet _“waar”_ die is. _Feedforward_ laat zien waar de gebruiker _“naartoe”_ kan.
 
-Op de website van Ziggo.nl zijn het logo, de titel van de pagina en het oranje menu-item Straatnaambordjes, ze geven aan waar de gebruiker zich bevindt. Bewegwijzering zijn bijvoorbeeld de menu-items, daarmee kan een gebruiker ergens 'naartoe':
+Op de website van Ziggo.nl zijn het logo, de titel van de pagina en het oranje menu-item straatnaambordjes, ze geven aan waar de gebruiker zich bevindt. 
+Bewegwijzering zijn bijvoorbeeld de menu-items, daarmee kan een gebruiker ergens 'naartoe':
 
 ![Straatnaambordjes en bewegwijzering op ziggo.nl](ziggo-straatnaambordjes-en-bewegwijzering.png)
 
