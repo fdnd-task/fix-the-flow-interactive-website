@@ -36,3 +36,13 @@ Tijdens de sprint review ga je eerst laten zien welke feedback je hebt verwerkt 
 Pak de feedback van de opdrachtgever van de vorige sprint review er nog een keer bij, maak een lijst(je) en noteer welke feedback je hebt verwerkt. Tijdens de Sprint Review ga je stap voor stap de lijst bespreken, benoem de feedback en laat zien hoe je dat hebt opgelost. Vraag wat de opdrachtgever ervan vindt en noteer de opmerkingen. 
 
 Doorloop de workshop uit Sprint 2 voor een goede voorbereiding: https://github.com/fdnd-task/the-client-website/blob/main/docs/sprint-review.md
+
+### Feedback verwerken en backlog aanvullen
+
+Alhoewel het voor ons de laatste sprint review is, gaan de tweedejaars de volgende sprints verder met het project in sprint 18. Wat kunnen de tweedejaars met jullie werk? Ook jij hebt iets gemaakt waar de tweedejaars mee verder kunnen.
+
+Voeg na de sprint review feedback van de opdrachtgever toe aan de backlog van het tweedejaars project. Die kan je hier vinden https://github.com/fdnd-agency. Voeg issues toe met de feedback, uitleg van wat je hebt gepresenteerd, screenshots en een link naar het werk dat je hebt gemaakt. Tag de tweedejaars en bespreek de issues die je hebt toegvoegd.
+
+
+
+
