@@ -41,7 +41,7 @@ Doorloop de workshop uit Sprint 2 voor een goede voorbereiding: https://github.c
 
 Alhoewel het voor ons de laatste sprint review is, gaan de tweedejaars de volgende sprints verder met het project in sprint 18. Wat kunnen de tweedejaars met jullie werk? Ook jij hebt iets gemaakt waar de tweedejaars mee verder kunnen.
 
-Voeg na de sprint review feedback van de opdrachtgever toe aan de backlog van het tweedejaars project. Die kan je hier vinden https://github.com/fdnd-agency. Voeg issues toe met de feedback, uitleg van wat je hebt gepresenteerd, screenshots en een link naar het werk dat je hebt gemaakt. Tag de tweedejaars en bespreek de issues die je hebt toegvoegd.
+Voeg na de sprint review feedback van de opdrachtgever toe aan het tweedejaars project door een issue aan te maken. Die kan je hier vinden https://github.com/fdnd-agency. Voeg issues toe met de feedback, uitleg van wat je hebt gepresenteerd, screenshots en een link naar het werk dat je hebt gemaakt. Tag de tweedejaars en bespreek de issues die je hebt toegvoegd.
 
 
 
