@@ -38,7 +38,7 @@ Deze sprint worden weer verschillende workshops aangeboden:
 - [Wrap up](wrap-up.md)
 
 
-## Criteria
+## Definition of done
 
 Deze opdracht is done als:
 
