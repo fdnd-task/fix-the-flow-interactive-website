@@ -1,6 +1,6 @@
 # Fix the Flow - Interactive Website
 
-## Programming User Interacion
+## Programming User Interaction
 
 Leer met het JavaScript 3 stappenplan en CSS interactie coderen.
 
